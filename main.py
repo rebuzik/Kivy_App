@@ -1,8 +1,5 @@
-# import pyo
-# import numpy as np
 from kivy.uix.boxlayout import BoxLayout
 from kivymd.uix.button import MDFlatButton
-from pyo import *
 from kivy.core.window import Window
 from kivy.lang import Builder
 from kivymd.app import MDApp
